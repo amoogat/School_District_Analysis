@@ -5,7 +5,7 @@ Analyzes csv file using Python with Pandas and Jupyter Notebook
 - Challenge (summary below): dishonest grades and show how data changes
 
 ## District Summary
-In terms of the district, upon removing the academically dishonest results, we can see that the average math score goes down by ~.05 points, the average reading by ~.02 points, and the overall % passing goes down by ~1.1%.
+In terms of the district, upon removing the academically dishonest results, we can see that the average math score goes down by ~.05 points, the average reading by ~.02 points, and the overall % passing goes down by ~1.1%
 ![before cheating was found (left) vs after (right)](district.JPG)
 
 ## School Summary
