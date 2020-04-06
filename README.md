@@ -6,7 +6,7 @@ Analyzes csv file using Python with Pandas and Jupyter Notebook
 
 ## District Summary
 In terms of the district, upon removing the academically dishonest results, we can see that the average math score goes down by ~.05 points, the average reading by ~.02 points, and the overall % passing goes down by ~1.1%
-![before cheating was found (left) vs after (right)](district.JPG)
+![before cheating was found (left) vs after (right)](by_district.JPG)
 
 ## School Summary
 For every other school other than Thomas High School 9th graders, the grades remain the same. This is because this is where the dishonesty was proven. We can see this shift in the summary of the schools.
